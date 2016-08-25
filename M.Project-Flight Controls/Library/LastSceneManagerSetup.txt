@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Inhouse Assets/Scenes/Test_Flight.unity
+  isLoaded: 1
+  isActive: 1
